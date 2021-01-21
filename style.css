@@ -89,3 +89,7 @@ body {
     top: 91%;
     left: 30%;
 }
+
+.paper-shadow {
+  box-shadow: 0px 2px 38px rgba(0, 0, 0, 0.2);
+}
